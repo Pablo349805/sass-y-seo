@@ -1,0 +1,43 @@
+ul {
+  list-style: none;
+  padding: 0%;
+  margin: 60px 0;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul a {
+  text-decoration: none;
+  color: aliceblue;
+  padding: 20px;
+  background-color: blueviolet;
+}
+
+body {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+h1 {
+  text-align: center;
+  background-color: #9121a0;
+  padding: 15px;
+}
+
+h3 {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+  color: #3d1661;
+}
+
+footer {
+  background-color: darkgrey;
+}
+/*# sourceMappingURL=style.css.map */
